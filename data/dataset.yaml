@@ -1,0 +1,6 @@
+train: ./data/train/
+val: ./data/val/
+test: ./data/test/
+
+nc: 4
+names: ["아우터", "하의", "원피스", "상의"]
