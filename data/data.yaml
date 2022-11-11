@@ -1,7 +1,7 @@
-path: ../../input
-train: train/images
-val: val/images
-test: test/images
+# path: ../../input
+train: ../../input/train/images
+val: ../../input/val/images
+test: ../../input/test/images
 
 nc: 441
 
