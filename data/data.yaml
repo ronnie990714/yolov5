@@ -1,4 +1,3 @@
-# path: ../../input
 train: path to /train/images
 val: path to /val/images
 test: path to /test/images
