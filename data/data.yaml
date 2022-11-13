@@ -1,7 +1,7 @@
 # path: ../../input
-train: ../../input/findcloth/train/images
-val: ../../input/findcloth/val/images
-test: ../../input/findcloth/test/images
+train: path to /train/images
+val: path to /val/images
+test: path to /test/images
 
 nc: 441
 
