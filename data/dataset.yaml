@@ -1,7 +1,7 @@
 # path: ../../input
-train: ../../input/dataset_val/train/images
-val: ../../input/dataset_val/val/images
-test: ../../input/dataset_val/test/images
+train: ../../input/dataset-val/dataset_val/train/images
+val: ../../input/dataset-val/dataset_val/val/images
+test: ../../input/dataset-val/datset_val/test/images
 
 nc: 441
 
